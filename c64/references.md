@@ -30,3 +30,5 @@
 
  * [Lots of magazines](ftp://utopia.hacktic.nl/pub/c64/Magazines/)
  * [C=Hacking Commodore 8bit hacking magazine](http://www.ffd2.com/fridge/chacking/)
+ * [Original C64 users manual](ftp://ftp.zimmers.net/pub/cbm/c64/manuals/c64-manual.txt.gz)
+ * [C64 programmer's reference guide](ftp://ftp.zimmers.net/pub/cbm/c64/manuals/c64-programmers-reference-guide.txt.gz)
