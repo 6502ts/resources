@@ -11,6 +11,8 @@
 # PLA / Memory Mapping
 
  * [Memory banking breakdown](https://www.c64-wiki.com/wiki/Bank_Switching)
+ * [C64 PLA Dissected](http://www.zimmers.net/anonftp/pub/cbm/firmware/computers/c64/C64_PLA_Dissected.pdf)
+ * [C64 PLA logic equations](http://www.zimmers.net/anonftp/pub/cbm/firmware/computers/c64/pla.txt)
 
 # CIA
 
@@ -32,3 +34,8 @@
  * [C=Hacking Commodore 8bit hacking magazine](http://www.ffd2.com/fridge/chacking/)
  * [Original C64 users manual](ftp://ftp.zimmers.net/pub/cbm/c64/manuals/c64-manual.txt.gz)
  * [C64 programmer's reference guide](ftp://ftp.zimmers.net/pub/cbm/c64/manuals/c64-programmers-reference-guide.txt.gz)
+ * [cross assembler / disassembler for C64](http://www.floodgap.com/retrotech/xa)
+ * [how the serial bus works](http://www.floodgap.com/retrobits/ckb/display.cgi?529)
+ * [information snippets at floodgate](http://www.floodgap.com/retrobits/ckb/ckb-age.cgi)
+ * [archive.org version of Marko Mäkeläs C64 maps](https://web.archive.org/web/20010413171154/http://www.hut.fi:80/Misc/cbm/docs/)
+ * [
