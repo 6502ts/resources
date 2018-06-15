@@ -2,6 +2,8 @@
 
 # Kernel
 
+ * [Commented kernel source](https://github.com/mist64/c64rom)
+
 # PLA / Memory Mapping
 
 # CIA
