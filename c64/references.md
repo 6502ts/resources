@@ -16,6 +16,8 @@
 
 # VIC-II
 
+ * [VIC-II im C64](http://www.cebix.net/VIC-Artikel.txt)
+
 # SID
 
  * [SID in-depth information site](http://sid.kubarth.com/)
