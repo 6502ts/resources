@@ -6,6 +6,8 @@
 
 # PLA / Memory Mapping
 
+ * [Memory banking breakdown](https://www.c64-wiki.com/wiki/Bank_Switching)
+
 # CIA
 
 # VIC-II
