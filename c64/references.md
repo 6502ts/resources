@@ -5,6 +5,7 @@
  * [Commented kernel source](https://github.com/mist64/c64rom)
  * [Docs at arnold.c64.org (e.g. Kernal docs)](ftp://arnold.c64.org/pub/docs/)
  * [Kernal and C1541 roms from arnold](ftp://arnold.c64.org/pub/utils/roms/64er/)
+ * [Documented Kernal at zimmers.net](ftp://ftp.zimmers.net/pub/cbm/c64/firmware/source/)
 
 # PLA / Memory Mapping
 
@@ -17,6 +18,10 @@
 # SID
 
  * [SID in-depth information site](http://sid.kubarth.com/)
+
+# C1541
+
+ * [C1541 schematics and manuals](ftp://ftp.zimmers.net/pub/cbm/c64/firmware/drives/1541/schematics/)
 
 # Other
 
