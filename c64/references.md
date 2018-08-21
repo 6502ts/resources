@@ -38,4 +38,4 @@
  * [how the serial bus works](http://www.floodgap.com/retrobits/ckb/display.cgi?529)
  * [information snippets at floodgate](http://www.floodgap.com/retrobits/ckb/ckb-age.cgi)
  * [archive.org version of Marko Mäkeläs C64 maps](https://web.archive.org/web/20010413171154/http://www.hut.fi:80/Misc/cbm/docs/)
- * [
+ * [SO question with useful links to tools](https://retrocomputing.stackexchange.com/questions/7327/6502-branch-offset-calculation)
