@@ -7,6 +7,7 @@
  * [Kernal and C1541 roms from arnold](ftp://arnold.c64.org/pub/utils/roms/64er/)
  * [Documented Kernal at zimmers.net](ftp://ftp.zimmers.net/pub/cbm/c64/firmware/source/)
  * [Docs at 8bit.org](ftp://8bitfiles.net/cbm8bits/c64/docs/)
+ * [Basic and Kernal Rom Disassembly](http://www.ffd2.com/fridge/docs/c64-diss.html)
 
 # PLA / Memory Mapping
 
@@ -27,6 +28,7 @@
 # C1541
 
  * [C1541 schematics and manuals](ftp://ftp.zimmers.net/pub/cbm/c64/firmware/drives/1541/schematics/)
+ * [Complete C1541 disassembly](http://www.ffd2.com/fridge/docs/1541dis.html)
 
 # Other
 
